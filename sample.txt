@@ -1,0 +1,14 @@
+BEGIN:
+DocTypeName: Signature Cards
+Account #: 1061995
+Customer Name: WILLIAM H TAFT
+Social Security #: 333-27-1909
+Signing Limit: 15000.00
+FullPath: C:\DIP\Sig Cards\8059.tif
+BEGIN:
+DocTypeName: Signature Cards
+Account #: 1192800
+Customer Name: WARREN G HARDING
+Social Security #: 333-29-1921
+Signing Limit: 5000.00
+FullPath: C:\DIP\Sig Cards\8062.tif
